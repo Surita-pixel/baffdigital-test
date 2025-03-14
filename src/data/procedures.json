@@ -1,0 +1,18 @@
+[
+  {
+    "PK": "PROCEDURE#768fe5e7-ca68-445c-8682-36a0f11e4388",
+    "SK": "DETAILS",
+    "title": "Cirugía de rodilla",
+    "prices": [
+      {
+        "type": "Standard",
+        "amount": 1200000
+      },
+      {
+        "type": "VIP",
+        "amount": 1800000
+      }
+    ],
+    "createdAt": "2024-03-08T10:00:00Z"
+  }
+]
